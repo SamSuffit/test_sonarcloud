@@ -20,7 +20,7 @@
             		<url>https://maven.pkg.github.com/SamSuffit/test_sonarcloud</url>
 	        </repository>
 	</distributionManagement>
-	
+
 	<properties>
 		<java.version>25</java.version>
 		<sonar.organization>samsuffit</sonar.organization>
